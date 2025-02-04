@@ -3,7 +3,7 @@
     "path": "C:/6to semestre/genomica/Practica_1_genomica/Scripts/borrador_practica_1.R",
     "project_path": "Scripts/borrador_practica_1.R",
     "type": "r_source",
-    "hash": "3528895023",
+    "hash": "2116080116",
     "contents": "",
     "dirty": false,
     "created": 1738608096880.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,0",
+        "cursorPosition": "3,22",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1738637450,
+    "lastKnownWriteTime": 1738637758,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1738637450551,
+    "last_content_update": 1738637758848,
     "read_only": false,
     "read_only_alternatives": []
 }
